@@ -1,6 +1,7 @@
 # GRIP_Task2-Prediction-using-Unsupervised-ML
 
 **Task** : From Iris dataset predict the optimum number of clusters and represent it visually.
+**Dataset** : https://bit.ly/3kXTdox
 
 ![iris](https://github.com/Harshapariyani123/GRIP_Task2-Prediction-using-Unsupervised-ML/assets/45930784/5cb15df5-bf25-4954-bccf-f637bbd487dc)
 
@@ -14,7 +15,7 @@ _Elbow Method_: Plot the within-cluster sum of squares (WCSS) against the number
 4. **Apply K-means**: Initialize the K-means algorithm with the chosen number of clusters and fit it to the data.
 5. **Evaluate the Clustering** : evaluate the quality of the clustering. Visualizing the clusters Interpreting the centroids to understand the characteristics of each cluster.
 
-
+GitHub Link : https://github.com/Harshapariyani123/GRIP_Task2-Prediction-using-Unsupervised-ML/blob/main/Iris%20Dataset%20-%20K-Means%20Algorithm%20(Spark%20Foundations)%20.ipynb
 
 
 
