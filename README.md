@@ -1,4 +1,4 @@
-# GRIP_Task2-Prediction-using-Unsupervised-ML
+# GRIP_Task2-Prediction-Using-Unsupervised-ML
 
 **Task** : From Iris dataset predict the optimum number of clusters and represent it visually.
 
